@@ -1,1 +1,1 @@
-# C-code
+I am physics student at Stony Brook University and this repository serves to track my progression in learning the c++ language. This repository will contain homeworks I have completed in class I am taking and personal projects as well. Overall, my aim with this respository to demonstrate capability and growth overtime.
